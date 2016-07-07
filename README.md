@@ -1,7 +1,7 @@
 # Summer-Internship
 This is a collection of codes for the objective of predicting keywords in a given text. The approach uses Recurrent Neural Networks(RNNs) to learn to identify the keywords based on the context. Torch and its libraries have been used to code the neural nets. Following is a brief description of all the files:
 
-* [forward.lua](blob/master/forward.lua) - implements the basic architecture, takes in the filenames and stores a model generated after each epoch.
+* [forward.lua](forward.lua) - implements the basic architecture, takes in the filenames and stores a model generated after each epoch.
 2. backward.lua - same as forward.lua except it reverses the input and gives it to the network.
 3. training.lua - converts the data from csv format into Torch Table and dumps it for future use.
 4. vector_forward.lua - almost same as forward.lua except that it includes a lookuptable layer (embedding) in the model, which is initialised with glove embedding and allowed to update.
