@@ -1,0 +1,846 @@
+Data Loaded	
+Epoch 1	
+Epoch 2	
+{
+  1 : 2
+  2 : 1
+  3 : 2
+  4 : 2
+  5 : 2
+  6 : 2
+  7 : 2
+  8 : 2
+  9 : 2
+}
+Threshold 1	
+Best Epoch : 2	
+4499	
+Predicted and keyword : 5 20 28 
+Predicted but not keyword : 17 
+Not predicted and not keyword : 1 2 4 6 7 8 9 10 11 12 13 14 15 16 18 19 21 22 23 24 25 26 27 
+Not predicted but keyword : 3 
+4500	
+Predicted and keyword : 8 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 3 4 6 7 9 10 
+Not predicted but keyword : 5 
+4501	
+Predicted and keyword : 5 
+Predicted but not keyword : 6 
+Not predicted and not keyword : 1 2 3 4 7 8 9 10 11 
+Not predicted but keyword : 
+4502	
+Predicted and keyword : 9 
+Predicted but not keyword : 6 15 17 
+Not predicted and not keyword : 1 2 3 4 5 7 8 10 11 12 13 14 16 18 19 
+Not predicted but keyword : 
+4503	
+Predicted and keyword : 4 20 
+Predicted but not keyword : 10 16 
+Not predicted and not keyword : 1 2 3 5 6 7 8 9 11 12 13 14 15 17 18 19 
+Not predicted but keyword : 
+4504	
+Predicted and keyword : 8 16 
+Predicted but not keyword : 13 22 
+Not predicted and not keyword : 1 2 3 4 5 6 7 9 10 11 12 14 15 17 18 19 20 21 
+Not predicted but keyword : 
+4505	
+Predicted and keyword : 
+Predicted but not keyword : 1 5 6 
+Not predicted and not keyword : 2 3 4 
+Not predicted but keyword : 
+4506	
+Predicted and keyword : 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 3 5 6 7 8 9 10 
+Not predicted but keyword : 4 11 
+4507	
+Predicted and keyword : 
+Predicted but not keyword : 13 14 17 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 9 10 11 12 15 16 
+Not predicted but keyword : 
+4508	
+Predicted and keyword : 1 2 4 
+Predicted but not keyword : 10 11 15 16 
+Not predicted and not keyword : 3 5 7 8 9 12 13 14 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 
+Not predicted but keyword : 6 
+4509	
+Predicted and keyword : 4 5 19 20 
+Predicted but not keyword : 2 3 
+Not predicted and not keyword : 1 6 7 8 9 10 11 12 13 14 15 16 17 18 21 22 23 
+Not predicted but keyword : 
+4510	
+Predicted and keyword : 5 6 
+Predicted but not keyword : 9 10 14 15 26 
+Not predicted and not keyword : 1 2 3 4 7 8 11 12 13 16 17 18 19 20 21 22 23 24 25 
+Not predicted but keyword : 
+4511	
+Predicted and keyword : 11 
+Predicted but not keyword : 4 10 13 
+Not predicted and not keyword : 1 2 3 5 6 7 8 9 12 14 15 16 17 19 20 
+Not predicted but keyword : 18 
+4512	
+Predicted and keyword : 1 2 6 7 19 20 23 
+Predicted but not keyword : 15 
+Not predicted and not keyword : 4 5 8 9 10 11 12 13 14 16 17 18 22 
+Not predicted but keyword : 3 21 
+4513	
+Predicted and keyword : 2 7 8 42 
+Predicted but not keyword : 1 16 32 38 
+Not predicted and not keyword : 3 4 5 6 9 10 11 12 13 14 15 17 18 19 20 21 22 24 25 26 27 28 29 30 31 33 34 35 36 37 39 40 41 43 
+Not predicted but keyword : 23 
+4514	
+Predicted and keyword : 2 
+Predicted but not keyword : 1 
+Not predicted and not keyword : 3 4 5 
+Not predicted but keyword : 
+4515	
+Predicted and keyword : 
+Predicted but not keyword : 11 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 9 10 12 13 14 15 17 18 19 20 21 22 
+Not predicted but keyword : 16 
+4516	
+Predicted and keyword : 6 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 3 4 5 7 8 9 10 
+Not predicted but keyword : 
+4517	
+Predicted and keyword : 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 3 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+Not predicted but keyword : 4 
+4518	
+Predicted and keyword : 11 
+Predicted but not keyword : 5 16 
+Not predicted and not keyword : 1 2 3 4 6 7 8 9 10 12 13 14 15 17 18 19 20 21 
+Not predicted but keyword : 
+4519	
+Predicted and keyword : 
+Predicted but not keyword : 16 
+Not predicted and not keyword : 1 2 4 5 6 7 8 9 11 12 13 14 15 17 
+Not predicted but keyword : 3 10 
+4520	
+Predicted and keyword : 14 
+Predicted but not keyword : 3 13 17 25 
+Not predicted and not keyword : 1 2 4 5 6 7 8 9 10 11 12 15 16 18 19 20 21 22 23 24 26 27 28 29 30 31 32 
+Not predicted but keyword : 
+4521	
+Predicted and keyword : 3 4 6 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 5 7 8 9 
+Not predicted but keyword : 2 
+4522	
+Predicted and keyword : 7 12 
+Predicted but not keyword : 4 
+Not predicted and not keyword : 1 2 3 5 6 8 9 10 11 13 14 15 16 17 18 19 
+Not predicted but keyword : 
+4523	
+Predicted and keyword : 1 2 3 5 25 27 28 
+Predicted but not keyword : 20 
+Not predicted and not keyword : 4 6 7 8 9 10 11 12 13 14 15 16 17 18 19 22 23 24 26 
+Not predicted but keyword : 21 
+4524	
+Predicted and keyword : 5 16 27 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 3 4 6 7 8 9 10 11 12 13 14 15 17 18 19 20 21 22 23 24 25 26 
+Not predicted but keyword : 
+4525	
+Predicted and keyword : 2 4 17 22 23 24 29 
+Predicted but not keyword : 3 18 
+Not predicted and not keyword : 1 5 6 7 8 9 10 11 13 14 15 16 19 20 21 25 26 27 28 30 31 32 33 34 35 36 
+Not predicted but keyword : 12 
+4526	
+Predicted and keyword : 7 8 23 
+Predicted but not keyword : 24 
+Not predicted and not keyword : 1 2 3 4 6 9 10 12 13 14 15 16 17 18 19 20 21 22 
+Not predicted but keyword : 5 11 
+4527	
+Predicted and keyword : 3 
+Predicted but not keyword : 16 25 
+Not predicted and not keyword : 1 2 4 5 6 7 8 9 10 11 12 13 14 15 17 18 19 20 21 22 23 24 26 27 28 
+Not predicted but keyword : 
+4528	
+Predicted and keyword : 3 8 9 
+Predicted but not keyword : 4 10 11 
+Not predicted and not keyword : 1 2 5 6 7 
+Not predicted but keyword : 
+4529	
+Predicted and keyword : 11 13 24 30 40 43 44 
+Predicted but not keyword : 12 25 41 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 9 10 14 15 16 17 19 20 21 22 23 26 27 28 29 31 33 34 35 36 37 38 39 42 
+Not predicted but keyword : 18 32 45 
+4530	
+Predicted and keyword : 1 
+Predicted but not keyword : 2 7 8 
+Not predicted and not keyword : 3 4 5 6 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 
+Not predicted but keyword : 
+4531	
+Predicted and keyword : 8 
+Predicted but not keyword : 9 13 
+Not predicted and not keyword : 1 2 3 4 5 6 10 11 12 14 15 16 17 18 19 
+Not predicted but keyword : 7 
+4532	
+Predicted and keyword : 6 
+Predicted but not keyword : 3 4 7 
+Not predicted and not keyword : 1 2 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 
+Not predicted but keyword : 5 
+4533	
+Predicted and keyword : 9 
+Predicted but not keyword : 13 14 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 10 11 12 15 16 17 18 19 20 
+Not predicted but keyword : 
+4534	
+Predicted and keyword : 5 8 9 10 
+Predicted but not keyword : 2 16 20 21 
+Not predicted and not keyword : 1 3 4 6 7 11 12 13 14 15 17 18 19 
+Not predicted but keyword : 
+4535	
+Predicted and keyword : 1 2 3 18 
+Predicted but not keyword : 11 17 19 21 22 
+Not predicted and not keyword : 4 5 6 7 8 9 10 12 13 14 15 16 20 
+Not predicted but keyword : 
+4536	
+Predicted and keyword : 9 
+Predicted but not keyword : 8 19 
+Not predicted and not keyword : 1 2 3 4 5 6 7 10 11 12 13 14 15 16 17 18 20 21 22 23 24 25 
+Not predicted but keyword : 
+4537	
+Predicted and keyword : 13 
+Predicted but not keyword : 7 8 10 24 28 
+Not predicted and not keyword : 1 2 3 4 5 6 9 11 12 14 15 16 17 18 19 20 21 22 23 25 26 27 
+Not predicted but keyword : 
+4538	
+Predicted and keyword : 10 
+Predicted but not keyword : 11 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 
+Not predicted but keyword : 9 
+4539	
+Predicted and keyword : 17 18 19 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 20 21 22 23 24 25 26 27 
+Not predicted but keyword : 
+4540	
+Predicted and keyword : 2 11 
+Predicted but not keyword : 7 10 12 17 18 
+Not predicted and not keyword : 4 6 8 9 13 14 15 16 19 20 21 22 23 
+Not predicted but keyword : 1 3 5 
+4541	
+Predicted and keyword : 3 
+Predicted but not keyword : 4 
+Not predicted and not keyword : 1 5 6 7 8 9 10 
+Not predicted but keyword : 2 
+4542	
+Predicted and keyword : 5 6 7 22 
+Predicted but not keyword : 21 
+Not predicted and not keyword : 1 2 3 4 8 9 10 11 12 13 14 15 16 17 19 20 
+Not predicted but keyword : 18 
+4543	
+Predicted and keyword : 7 8 
+Predicted but not keyword : 16 17 18 
+Not predicted and not keyword : 1 2 3 4 5 9 10 11 12 13 14 15 
+Not predicted but keyword : 6 
+4544	
+Predicted and keyword : 9 18 20 21 22 23 27 
+Predicted but not keyword : 10 
+Not predicted and not keyword : 1 2 3 4 5 6 7 11 12 13 14 15 16 17 24 25 26 
+Not predicted but keyword : 8 19 
+4545	
+Predicted and keyword : 7 8 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 3 4 5 9 10 11 12 13 
+Not predicted but keyword : 6 
+4546	
+Predicted and keyword : 12 17 
+Predicted but not keyword : 13 16 19 21 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 9 10 14 15 18 20 22 23 24 25 26 27 28 
+Not predicted but keyword : 11 29 
+4547	
+Predicted and keyword : 6 
+Predicted but not keyword : 3 4 7 12 13 26 27 35 
+Not predicted and not keyword : 1 2 8 9 10 11 14 15 16 17 18 19 20 21 22 23 24 25 28 29 30 31 32 33 34 36 
+Not predicted but keyword : 5 37 
+4548	
+Predicted and keyword : 1 3 
+Predicted but not keyword : 
+Not predicted and not keyword : 4 5 6 7 8 9 10 11 
+Not predicted but keyword : 2 
+4549	
+Predicted and keyword : 4 9 22 
+Predicted but not keyword : 5 10 21 24 
+Not predicted and not keyword : 1 3 6 7 8 11 12 13 14 15 16 17 18 19 20 23 25 26 27 28 29 
+Not predicted but keyword : 2 30 
+4550	
+Predicted and keyword : 
+Predicted but not keyword : 13 14 
+Not predicted and not keyword : 1 2 3 4 5 7 8 9 10 11 12 15 16 18 19 20 
+Not predicted but keyword : 6 17 
+4551	
+Predicted and keyword : 16 
+Predicted but not keyword : 6 
+Not predicted and not keyword : 1 2 4 7 8 9 10 12 13 14 
+Not predicted but keyword : 3 5 11 15 
+4552	
+Predicted and keyword : 
+Predicted but not keyword : 2 11 12 15 
+Not predicted and not keyword : 1 4 5 6 7 8 9 10 13 14 16 17 18 19 20 21 22 23 24 25 26 27 
+Not predicted but keyword : 3 
+4553	
+Predicted and keyword : 
+Predicted but not keyword : 3 12 
+Not predicted and not keyword : 1 4 5 6 7 8 9 10 11 
+Not predicted but keyword : 2 
+4554	
+Predicted and keyword : 
+Predicted but not keyword : 6 12 14 19 23 
+Not predicted and not keyword : 1 2 3 4 5 7 8 9 10 11 13 15 16 17 20 21 22 24 
+Not predicted but keyword : 18 
+4555	
+Predicted and keyword : 
+Predicted but not keyword : 10 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 9 11 12 13 14 15 16 
+Not predicted but keyword : 17 
+4556	
+Predicted and keyword : 
+Predicted but not keyword : 8 26 
+Not predicted and not keyword : 1 2 3 4 5 6 7 9 10 11 12 13 14 15 16 17 18 19 20 21 23 24 25 27 28 29 30 31 32 33 35 36 37 
+Not predicted but keyword : 22 34 
+4557	
+Predicted and keyword : 
+Predicted but not keyword : 17 18 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 19 20 21 22 23 24 25 
+Not predicted but keyword : 26 
+4558	
+Predicted and keyword : 11 
+Predicted but not keyword : 12 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 9 13 14 15 16 
+Not predicted but keyword : 10 
+4559	
+Predicted and keyword : 6 14 
+Predicted but not keyword : 2 5 9 21 34 
+Not predicted and not keyword : 1 3 4 7 10 11 12 13 15 16 17 18 19 20 22 23 24 25 26 27 28 29 30 31 32 33 
+Not predicted but keyword : 8 
+4560	
+Predicted and keyword : 18 
+Predicted but not keyword : 6 
+Not predicted and not keyword : 1 2 3 4 5 7 8 9 10 11 12 13 14 15 16 17 
+Not predicted but keyword : 
+4561	
+Predicted and keyword : 1 2 3 5 
+Predicted but not keyword : 
+Not predicted and not keyword : 4 6 7 8 9 10 11 12 13 14 
+Not predicted but keyword : 
+4562	
+Predicted and keyword : 12 16 17 
+Predicted but not keyword : 4 6 10 11 18 
+Not predicted and not keyword : 1 2 3 5 7 8 9 13 
+Not predicted but keyword : 14 15 
+4563	
+Predicted and keyword : 
+Predicted but not keyword : 9 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 10 11 12 13 14 15 16 17 19 20 21 
+Not predicted but keyword : 18 
+4564	
+Predicted and keyword : 
+Predicted but not keyword : 12 
+Not predicted and not keyword : 1 2 3 4 5 6 8 9 10 11 13 14 
+Not predicted but keyword : 7 
+4565	
+Predicted and keyword : 
+Predicted but not keyword : 7 8 24 26 31 32 45 
+Not predicted and not keyword : 1 2 3 4 5 6 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 25 27 28 29 30 33 34 35 36 37 38 39 41 42 43 44 46 47 48 
+Not predicted but keyword : 40 
+4566	
+Predicted and keyword : 26 
+Predicted but not keyword : 9 10 13 15 17 27 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 11 12 14 16 18 19 20 21 22 23 24 28 
+Not predicted but keyword : 25 
+4567	
+Predicted and keyword : 2 3 9 10 11 14 15 
+Predicted but not keyword : 1 13 
+Not predicted and not keyword : 4 5 6 7 8 12 
+Not predicted but keyword : 
+4568	
+Predicted and keyword : 4 5 
+Predicted but not keyword : 14 17 
+Not predicted and not keyword : 1 2 3 6 7 8 9 10 11 12 13 15 16 18 19 20 
+Not predicted but keyword : 
+4569	
+Predicted and keyword : 6 
+Predicted but not keyword : 3 4 7 
+Not predicted and not keyword : 1 2 8 9 10 11 12 13 
+Not predicted but keyword : 5 
+4570	
+Predicted and keyword : 9 10 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 11 12 13 14 15 
+Not predicted but keyword : 
+4571	
+Predicted and keyword : 14 15 18 27 28 
+Predicted but not keyword : 19 21 29 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 9 10 11 12 13 16 17 20 22 23 24 25 30 
+Not predicted but keyword : 26 
+4572	
+Predicted and keyword : 9 
+Predicted but not keyword : 1 2 
+Not predicted and not keyword : 3 4 5 6 7 8 
+Not predicted but keyword : 
+4573	
+Predicted and keyword : 10 11 18 19 23 
+Predicted but not keyword : 9 
+Not predicted and not keyword : 2 3 4 5 6 7 8 12 13 14 15 16 17 20 22 
+Not predicted but keyword : 1 21 
+4574	
+Predicted and keyword : 
+Predicted but not keyword : 17 
+Not predicted and not keyword : 1 2 3 4 6 7 8 9 10 11 12 13 14 15 16 
+Not predicted but keyword : 5 
+4575	
+Predicted and keyword : 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 3 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 
+Not predicted but keyword : 4 
+4576	
+Predicted and keyword : 1 2 5 
+Predicted but not keyword : 
+Not predicted and not keyword : 4 6 7 
+Not predicted but keyword : 3 
+4577	
+Predicted and keyword : 
+Predicted but not keyword : 
+Not predicted and not keyword : 2 3 4 5 6 7 8 
+Not predicted but keyword : 1 
+4578	
+Predicted and keyword : 4 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 3 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Not predicted but keyword : 
+4579	
+Predicted and keyword : 
+Predicted but not keyword : 
+Not predicted and not keyword : 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 
+Not predicted but keyword : 1 
+4580	
+Predicted and keyword : 22 26 
+Predicted but not keyword : 13 18 
+Not predicted and not keyword : 2 3 4 5 6 8 9 10 11 12 14 15 16 17 19 20 21 23 24 25 27 28 29 30 31 32 
+Not predicted but keyword : 1 7 
+4581	
+Predicted and keyword : 8 
+Predicted but not keyword : 
+Not predicted and not keyword : 2 3 4 5 6 7 
+Not predicted but keyword : 1 
+4582	
+Predicted and keyword : 20 
+Predicted but not keyword : 22 27 28 
+Not predicted and not keyword : 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 21 23 24 25 26 29 
+Not predicted but keyword : 1 
+4583	
+Predicted and keyword : 4 
+Predicted but not keyword : 6 
+Not predicted and not keyword : 1 2 3 5 7 8 9 10 11 13 14 15 16 17 18 19 20 
+Not predicted but keyword : 12 
+4584	
+Predicted and keyword : 
+Predicted but not keyword : 17 26 27 28 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 9 11 12 13 14 15 16 18 19 20 21 22 23 24 25 
+Not predicted but keyword : 10 
+4585	
+Predicted and keyword : 3 
+Predicted but not keyword : 12 
+Not predicted and not keyword : 1 2 4 5 6 7 8 9 10 11 
+Not predicted but keyword : 
+4586	
+Predicted and keyword : 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 9 10 11 12 13 15 
+Not predicted but keyword : 14 
+4587	
+Predicted and keyword : 6 7 8 
+Predicted but not keyword : 28 
+Not predicted and not keyword : 1 2 3 4 9 10 11 12 13 14 15 16 17 20 21 22 23 24 25 26 27 29 30 31 32 33 34 35 36 37 38 39 40 41 
+Not predicted but keyword : 5 18 19 
+4588	
+Predicted and keyword : 
+Predicted but not keyword : 17 20 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18 19 21 23 24 
+Not predicted but keyword : 22 
+4589	
+Predicted and keyword : 6 16 
+Predicted but not keyword : 3 4 7 17 
+Not predicted and not keyword : 1 2 8 9 10 11 12 13 14 15 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 
+Not predicted but keyword : 5 
+4590	
+Predicted and keyword : 
+Predicted but not keyword : 23 
+Not predicted and not keyword : 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 24 26 
+Not predicted but keyword : 1 25 
+4591	
+Predicted and keyword : 10 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 9 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 
+Not predicted but keyword : 
+4592	
+Predicted and keyword : 
+Predicted but not keyword : 7 
+Not predicted and not keyword : 1 2 3 4 5 6 8 9 10 12 13 14 15 
+Not predicted but keyword : 11 
+4593	
+Predicted and keyword : 13 
+Predicted but not keyword : 10 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 9 11 12 14 15 16 17 
+Not predicted but keyword : 
+4594	
+Predicted and keyword : 
+Predicted but not keyword : 4 21 24 34 40 51 52 61 
+Not predicted and not keyword : 1 2 3 5 6 7 8 9 10 12 13 14 15 16 17 18 19 20 22 23 25 26 27 28 29 30 31 32 33 35 36 37 38 39 41 42 43 44 45 46 47 48 49 50 53 54 55 56 57 58 59 60 62 63 64 65 66 67 68 69 
+Not predicted but keyword : 11 
+4595	
+Predicted and keyword : 5 
+Predicted but not keyword : 10 12 
+Not predicted and not keyword : 1 2 4 6 7 8 9 11 13 14 15 16 17 18 19 20 
+Not predicted but keyword : 3 
+4596	
+Predicted and keyword : 4 11 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 3 5 6 7 8 9 10 
+Not predicted but keyword : 
+4597	
+Predicted and keyword : 1 2 5 
+Predicted but not keyword : 
+Not predicted and not keyword : 4 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 
+Not predicted but keyword : 3 
+4598	
+Predicted and keyword : 20 
+Predicted but not keyword : 15 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 9 10 11 12 13 14 16 17 18 19 21 22 23 24 25 26 27 28 29 
+Not predicted but keyword : 
+4599	
+Predicted and keyword : 14 
+Predicted but not keyword : 12 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 9 10 11 13 
+Not predicted but keyword : 
+4600	
+Predicted and keyword : 3 4 16 
+Predicted but not keyword : 1 10 26 30 31 
+Not predicted and not keyword : 2 5 6 7 8 9 11 12 13 15 17 18 19 20 21 22 23 24 25 27 28 29 
+Not predicted but keyword : 14 
+4601	
+Predicted and keyword : 
+Predicted but not keyword : 32 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 21 22 23 24 25 26 27 28 29 30 31 
+Not predicted but keyword : 20 
+4602	
+Predicted and keyword : 7 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 3 4 5 6 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 
+Not predicted but keyword : 
+4603	
+Predicted and keyword : 6 
+Predicted but not keyword : 3 4 7 9 15 29 
+Not predicted and not keyword : 1 2 8 10 11 12 13 14 16 17 18 19 20 21 22 23 24 25 26 27 28 30 
+Not predicted but keyword : 5 
+4604	
+Predicted and keyword : 10 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 9 11 12 13 14 15 
+Not predicted but keyword : 
+4605	
+Predicted and keyword : 9 14 
+Predicted but not keyword : 17 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 10 11 12 13 15 16 18 
+Not predicted but keyword : 
+4606	
+Predicted and keyword : 6 
+Predicted but not keyword : 39 
+Not predicted and not keyword : 1 2 3 4 5 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 40 41 42 43 44 
+Not predicted but keyword : 
+4607	
+Predicted and keyword : 
+Predicted but not keyword : 15 
+Not predicted and not keyword : 1 2 3 4 5 6 7 10 11 12 13 14 16 17 
+Not predicted but keyword : 8 9 
+4608	
+Predicted and keyword : 8 9 
+Predicted but not keyword : 16 
+Not predicted and not keyword : 1 2 3 4 5 6 7 10 11 12 13 14 15 17 18 19 20 
+Not predicted but keyword : 
+4609	
+Predicted and keyword : 1 2 5 
+Predicted but not keyword : 24 
+Not predicted and not keyword : 4 6 7 8 9 10 11 12 13 14 15 16 17 18 19 21 23 25 
+Not predicted but keyword : 3 20 22 
+4610	
+Predicted and keyword : 12 13 17 19 
+Predicted but not keyword : 20 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 9 14 15 18 21 22 23 24 
+Not predicted but keyword : 10 11 16 
+4611	
+Predicted and keyword : 16 
+Predicted but not keyword : 13 31 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 9 10 11 12 14 17 19 20 21 22 23 24 25 26 27 28 29 30 32 33 34 35 36 37 38 39 
+Not predicted but keyword : 15 18 
+4612	
+Predicted and keyword : 6 
+Predicted but not keyword : 3 4 7 23 
+Not predicted and not keyword : 1 2 8 9 10 11 12 13 14 15 16 18 19 20 21 22 24 25 26 
+Not predicted but keyword : 5 17 
+4613	
+Predicted and keyword : 3 
+Predicted but not keyword : 7 
+Not predicted and not keyword : 1 2 4 5 6 8 9 
+Not predicted but keyword : 
+4614	
+Predicted and keyword : 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 27 28 29 
+Not predicted but keyword : 26 
+4615	
+Predicted and keyword : 5 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 3 4 6 7 8 9 10 11 
+Not predicted but keyword : 
+4616	
+Predicted and keyword : 9 10 11 15 
+Predicted but not keyword : 14 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 12 13 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 
+Not predicted but keyword : 
+4617	
+Predicted and keyword : 4 5 
+Predicted but not keyword : 32 
+Not predicted and not keyword : 1 2 3 6 7 8 9 10 11 14 15 16 17 18 19 21 22 23 24 25 26 27 28 29 30 31 
+Not predicted but keyword : 12 13 20 
+4618	
+Predicted and keyword : 3 4 
+Predicted but not keyword : 
+Not predicted and not keyword : 5 7 8 9 
+Not predicted but keyword : 1 2 6 
+4619	
+Predicted and keyword : 5 6 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 3 4 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 23 24 
+Not predicted but keyword : 22 
+4620	
+Predicted and keyword : 5 6 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 3 4 7 8 9 10 11 12 13 14 15 
+Not predicted but keyword : 16 
+4621	
+Predicted and keyword : 
+Predicted but not keyword : 5 9 
+Not predicted and not keyword : 1 2 3 4 6 7 8 10 11 12 13 14 15 
+Not predicted but keyword : 16 
+4622	
+Predicted and keyword : 4 8 9 12 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 5 6 10 11 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 
+Not predicted but keyword : 3 7 
+4623	
+Predicted and keyword : 5 25 
+Predicted but not keyword : 17 24 
+Not predicted and not keyword : 1 2 3 4 6 7 8 9 10 11 12 13 14 15 16 18 19 20 21 22 23 
+Not predicted but keyword : 
+4624	
+Predicted and keyword : 7 
+Predicted but not keyword : 15 
+Not predicted and not keyword : 1 2 3 4 5 6 8 9 10 11 12 13 14 16 17 18 19 20 21 23 24 25 26 27 28 
+Not predicted but keyword : 22 
+4625	
+Predicted and keyword : 11 
+Predicted but not keyword : 20 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 9 10 12 13 14 15 16 17 18 19 21 22 23 24 25 26 27 28 
+Not predicted but keyword : 
+4626	
+Predicted and keyword : 19 
+Predicted but not keyword : 4 5 10 18 
+Not predicted and not keyword : 1 2 3 6 7 8 9 11 12 13 14 15 16 17 
+Not predicted but keyword : 
+4627	
+Predicted and keyword : 1 2 3 5 13 
+Predicted but not keyword : 15 
+Not predicted and not keyword : 4 6 7 8 9 10 11 12 14 16 17 18 
+Not predicted but keyword : 
+4628	
+Predicted and keyword : 4 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 
+Not predicted but keyword : 3 
+4629	
+Predicted and keyword : 
+Predicted but not keyword : 6 18 26 29 41 
+Not predicted and not keyword : 1 2 3 4 5 7 8 9 10 11 12 13 14 15 16 17 19 20 21 22 23 24 25 27 28 30 31 32 33 34 35 36 37 38 39 40 42 43 44 45 46 48 49 50 
+Not predicted but keyword : 47 
+4630	
+Predicted and keyword : 2 3 4 16 17 
+Predicted but not keyword : 7 12 13 14 18 
+Not predicted and not keyword : 1 5 6 8 9 10 11 19 20 21 22 
+Not predicted but keyword : 15 
+4631	
+Predicted and keyword : 6 
+Predicted but not keyword : 3 4 7 
+Not predicted and not keyword : 1 2 8 9 10 11 12 13 14 15 16 17 18 19 20 21 
+Not predicted but keyword : 5 
+4632	
+Predicted and keyword : 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 
+Not predicted but keyword : 20 
+4633	
+Predicted and keyword : 
+Predicted but not keyword : 4 5 13 
+Not predicted and not keyword : 1 2 3 6 7 8 10 11 12 14 
+Not predicted but keyword : 9 
+4634	
+Predicted and keyword : 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 3 5 6 7 8 9 10 11 
+Not predicted but keyword : 4 
+4635	
+Predicted and keyword : 23 28 29 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 24 25 26 27 
+Not predicted but keyword : 
+4636	
+Predicted and keyword : 20 
+Predicted but not keyword : 26 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 21 22 23 24 25 27 28 29 30 31 32 33 34 
+Not predicted but keyword : 
+4637	
+Predicted and keyword : 29 
+Predicted but not keyword : 21 25 30 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 22 23 24 26 27 28 
+Not predicted but keyword : 
+4638	
+Predicted and keyword : 2 
+Predicted but not keyword : 19 
+Not predicted and not keyword : 1 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 20 21 
+Not predicted but keyword : 
+4639	
+Predicted and keyword : 
+Predicted but not keyword : 23 31 34 41 
+Not predicted and not keyword : 1 2 3 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 24 25 26 27 28 29 30 32 33 35 36 37 38 39 40 42 43 44 45 
+Not predicted but keyword : 4 
+4640	
+Predicted and keyword : 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 9 10 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 
+Not predicted but keyword : 11 
+4641	
+Predicted and keyword : 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 3 4 6 7 8 9 10 11 12 13 14 15 16 17 
+Not predicted but keyword : 5 
+4642	
+Predicted and keyword : 8 
+Predicted but not keyword : 4 7 
+Not predicted and not keyword : 1 2 3 5 6 9 10 11 12 13 14 15 16 17 19 
+Not predicted but keyword : 18 
+4643	
+Predicted and keyword : 1 2 5 
+Predicted but not keyword : 
+Not predicted and not keyword : 4 6 7 8 9 10 
+Not predicted but keyword : 3 
+4644	
+Predicted and keyword : 6 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 3 4 5 7 
+Not predicted but keyword : 
+4645	
+Predicted and keyword : 3 12 13 
+Predicted but not keyword : 26 42 
+Not predicted and not keyword : 1 2 4 5 6 7 8 9 10 14 15 16 17 18 19 20 21 22 23 24 25 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 43 44 45 46 47 
+Not predicted but keyword : 11 
+4646	
+Predicted and keyword : 4 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 3 5 6 7 8 9 10 11 12 
+Not predicted but keyword : 
+4647	
+Predicted and keyword : 10 14 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 9 11 12 13 
+Not predicted but keyword : 
+4648	
+Predicted and keyword : 4 5 12 18 
+Predicted but not keyword : 3 
+Not predicted and not keyword : 1 2 6 7 8 9 10 11 13 14 15 16 17 19 20 21 
+Not predicted but keyword : 
+4649	
+Predicted and keyword : 8 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 3 4 5 6 7 9 
+Not predicted but keyword : 
+4650	
+Predicted and keyword : 7 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 3 4 5 
+Not predicted but keyword : 6 
+4651	
+Predicted and keyword : 3 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 4 5 6 7 8 9 10 11 12 13 14 15 
+Not predicted but keyword : 2 
+4652	
+Predicted and keyword : 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 3 5 6 7 8 9 10 11 12 13 
+Not predicted but keyword : 4 
+4653	
+Predicted and keyword : 
+Predicted but not keyword : 18 
+Not predicted and not keyword : 1 2 3 4 5 6 7 8 9 10 12 13 14 15 16 17 19 
+Not predicted but keyword : 11 
+4654	
+Predicted and keyword : 3 13 14 
+Predicted but not keyword : 12 
+Not predicted and not keyword : 1 4 5 6 7 8 9 10 11 
+Not predicted but keyword : 2 
+4655	
+Predicted and keyword : 9 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 4 5 6 7 8 
+Not predicted but keyword : 3 
+4656	
+Predicted and keyword : 7 
+Predicted but not keyword : 11 
+Not predicted and not keyword : 1 2 3 4 5 6 8 9 12 13 14 15 16 17 18 19 20 21 22 23 24 
+Not predicted but keyword : 10 
+4657	
+Predicted and keyword : 5 
+Predicted but not keyword : 
+Not predicted and not keyword : 2 3 4 6 7 8 9 10 
+Not predicted but keyword : 1 
+4658	
+Predicted and keyword : 5 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 3 
+Not predicted but keyword : 4 
+4659	
+Predicted and keyword : 10 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 3 4 6 7 8 9 
+Not predicted but keyword : 5 
+4660	
+Predicted and keyword : 3 
+Predicted but not keyword : 
+Not predicted and not keyword : 1 2 4 5 6 7 8 
+Not predicted but keyword : 
+4661	
+Predicted and keyword : 6 
+Predicted but not keyword : 3 4 7 
+Not predicted and not keyword : 1 2 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 
+Not predicted but keyword : 5 
+4662	
+Predicted and keyword : 7 18 
+Predicted but not keyword : 13 16 17 19 
+Not predicted and not keyword : 1 2 3 4 5 6 8 9 10 11 12 14 15 20 21 22 
+Not predicted but keyword : 
+4663	
+Predicted and keyword : 3 
+Predicted but not keyword : 1 
+Not predicted and not keyword : 2 4 
+Not predicted but keyword : 
+4664	
+Predicted and keyword : 5 7 9 23 24 27 29 30 34 
+Predicted but not keyword : 3 4 14 25 26 28 
+Not predicted and not keyword : 1 2 6 8 10 11 12 13 15 16 17 18 19 20 21 31 32 33 
+Not predicted but keyword : 22 

@@ -1,0 +1,107 @@
+nn.Recursor @ nn.Sequential {
+  [input -> (1) -> (2) -> (3) -> output]
+  (1): nn.FastLSTM(299 -> 299)
+  (2): nn.Linear(299 -> 2)
+  (3): nn.LogSoftMax
+}
+data loaded	
+Epoch 1	
+Training Loss : 17343.235695956	
+Epoch 2	
+Training Loss : 14539.264738183	
+Epoch 3	
+Training Loss : 13132.532573041	
+Epoch 4	
+Training Loss : 12217.664306305	
+Epoch 5	
+Training Loss : 11535.889263061	
+Epoch 6	
+Training Loss : 10971.06907565	
+Epoch 7	
+Training Loss : 10550.135085813	
+Epoch 8	
+Training Loss : 10047.170288283	
+Epoch 9	
+Training Loss : 9611.1733475163	
+Epoch 10	
+Training Loss : 9177.2864645322	
+Epoch 11	
+Training Loss : 8685.3063237046	
+Epoch 12	
+Training Loss : 8213.957197158	
+Epoch 13	
+Training Loss : 7858.7449176089	
+Epoch 14	
+Training Loss : 7372.6026787756	
+Epoch 15	
+Training Loss : 7153.9294308673	
+Epoch 16	
+Training Loss : 6929.4794361651	
+Epoch 17	
+Training Loss : 6565.1843780821	
+Epoch 18	
+Training Loss : 6525.2367506188	
+Epoch 19	
+Training Loss : 6502.889518663	
+Epoch 20	
+Training Loss : 6225.8214694122	
+Epoch 21	
+Training Loss : 5938.5454583091	
+Epoch 22	
+Training Loss : 5786.9385458756	
+Epoch 23	
+Training Loss : 5588.8060424262	
+Epoch 24	
+Training Loss : 5208.439295889	
+Epoch 25	
+Training Loss : 5075.4871761632	
+Epoch 26	
+Training Loss : 5088.7541355119	
+Epoch 27	
+Training Loss : 4922.4904982249	
+Epoch 28	
+Training Loss : 4857.2844589475	
+Epoch 29	
+Training Loss : 5077.3085277773	
+Epoch 30	
+Training Loss : 4658.7130217678	
+Epoch 31	
+Training Loss : 4497.2379751563	
+Epoch 32	
+Training Loss : 4251.0027046271	
+Epoch 33	
+Training Loss : 4317.6106057204	
+Epoch 34	
+Training Loss : 4116.9319131106	
+Epoch 35	
+Training Loss : 4139.464827376	
+Epoch 36	
+Training Loss : 4160.6053361547	
+Epoch 37	
+Training Loss : 4161.6309569332	
+Epoch 38	
+Training Loss : 4111.1566617205	
+Epoch 39	
+Training Loss : 4679.6337374334	
+Epoch 40	
+Training Loss : 4636.2257542153	
+Epoch 41	
+Training Loss : 4008.3823266167	
+Epoch 42	
+Training Loss : 3958.5035416568	
+Epoch 43	
+Training Loss : 4010.4890939074	
+Epoch 44	
+Training Loss : 4073.9318065705	
+Epoch 45	
+Training Loss : 3991.1851748301	
+Epoch 46	
+Training Loss : 3878.1748806953	
+Epoch 47	
+Training Loss : 3751.027043907	
+Epoch 48	
+Training Loss : 3663.9878750455	
+Epoch 49	
+Training Loss : 3513.193189794	
+Epoch 50	
+Training Loss : 3528.8708899002	

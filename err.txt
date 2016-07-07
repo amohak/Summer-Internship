@@ -1,0 +1,29 @@
+/home/arjun/torch/install/bin/luajit: /home/arjun/torch/install/share/lua/5.1/nn/Container.lua:67: 
+In 1 module of nn.Sequential:
+In 2 module of nn.ParallelTable:
+/home/arjun/torch/install/share/lua/5.1/nn/LookupTable.lua:59: attempt to index local 'input' (a nil value)
+stack traceback:
+	/home/arjun/torch/install/share/lua/5.1/nn/LookupTable.lua:59: in function 'makeInputContiguous'
+	/home/arjun/torch/install/share/lua/5.1/nn/LookupTable.lua:71: in function </home/arjun/torch/install/share/lua/5.1/nn/LookupTable.lua:68>
+	[C]: in function 'xpcall'
+	/home/arjun/torch/install/share/lua/5.1/nn/Container.lua:63: in function 'rethrowErrors'
+	...e/arjun/torch/install/share/lua/5.1/nn/ParallelTable.lua:12: in function <...e/arjun/torch/install/share/lua/5.1/nn/ParallelTable.lua:10>
+	[C]: in function 'xpcall'
+	/home/arjun/torch/install/share/lua/5.1/nn/Container.lua:63: in function 'rethrowErrors'
+	/home/arjun/torch/install/share/lua/5.1/nn/Sequential.lua:44: in function 'updateOutput'
+	/home/arjun/torch/install/share/lua/5.1/rnn/Recursor.lua:25: in function 'forward'
+	feature_forward.lua:122: in main chunk
+	[C]: in function 'dofile'
+	...rjun/torch/install/lib/luarocks/rocks/trepl/scm-1/bin/th:145: in main chunk
+	[C]: at 0x00406250
+
+WARNING: If you see a stack trace below, it doesn't point to the place where this error occured. Please use only the one above.
+stack traceback:
+	[C]: in function 'error'
+	/home/arjun/torch/install/share/lua/5.1/nn/Container.lua:67: in function 'rethrowErrors'
+	/home/arjun/torch/install/share/lua/5.1/nn/Sequential.lua:44: in function 'updateOutput'
+	/home/arjun/torch/install/share/lua/5.1/rnn/Recursor.lua:25: in function 'forward'
+	feature_forward.lua:122: in main chunk
+	[C]: in function 'dofile'
+	...rjun/torch/install/lib/luarocks/rocks/trepl/scm-1/bin/th:145: in main chunk
+	[C]: at 0x00406250
